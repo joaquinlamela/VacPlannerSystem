@@ -1,0 +1,5 @@
+{
+    "identityProvider":{
+      "personByDniEndpoint": "http://localhost:3005/api/population/"
+    }  
+}

@@ -1,0 +1,12 @@
+{
+    "server":{
+        "url": "/api",
+        "port": 3001
+    },
+    "queues": {
+        "senderQueue": "toEmmiterQueue"
+    }, 
+    "identityProvider":{
+        "personByDniEndpoint": "http://localhost:3005/api/population/"
+    }
+}

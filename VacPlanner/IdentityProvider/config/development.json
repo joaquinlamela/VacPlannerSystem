@@ -1,0 +1,7 @@
+{
+  "server": {
+    "url": "/api",
+    "port": 3005
+  },
+  "dbUrl": "mysql://root:12345678@localhost:3306/IdentifyProvider"
+}

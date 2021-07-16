@@ -1,0 +1,29 @@
+{
+  "DocumentId": {
+    "minLarge": 7,
+    "maxLarge": 8
+  },
+  "Cellphone": {
+    "prefix": "09",
+    "large": 9
+  },
+  "ReservationDate": {
+    "internalFormat": "YYYY-MM-DDThh:mm:ssZ"
+  },
+  "Schedule": {
+    "minValue": 1,
+    "maxValue": 3
+  },
+  "State": {
+    "minValue": 1,
+    "maxValue": 19
+  },
+  "Zone": {
+    "minValue": 1,
+    "maxValue": 50
+  },
+  "Age": {
+    "minValue": 18,
+    "maxValue": 106
+  }
+}

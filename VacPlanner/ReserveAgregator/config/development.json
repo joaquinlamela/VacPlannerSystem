@@ -1,0 +1,9 @@
+{
+    "receiver":{
+        "receiverUrl": "http://localhost:3001/api",
+        "reserveEndpoint": "/reserves"
+    }, 
+    "database":{
+        "name": "Reserve"
+    }
+}

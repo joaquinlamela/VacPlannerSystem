@@ -1,0 +1,4 @@
+{
+    "VacPlannerDb": "mongodb://localhost:27017/VacPlannerDB",
+    "VacQueryDb": "mongodb://localhost:27017/VacQueryDB"
+}
